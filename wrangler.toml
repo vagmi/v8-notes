@@ -1,0 +1,5 @@
+name = "v8-notes"
+compatibility_date = "2024-04-01"
+
+[assets]
+directory = "./book"
