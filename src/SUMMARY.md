@@ -4,7 +4,6 @@
 - [Core Concepts](core_concepts.md)
 - [The Runtime](runtime.md)
 - [The Event Loop](event_loop.md)
-- [V8 Snapshots and Performance](snapshots.md)
 - [Rust <-> JS Bridge](bridge.md)
 - [ES Module Loading](module_loading.md)
 - [Wrapper Scripts](wrapper.md)
